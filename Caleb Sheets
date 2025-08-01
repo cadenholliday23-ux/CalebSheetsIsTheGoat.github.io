@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Glory of [His Name]</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #2e003e, #5c0067);
+      color: white;
+      text-align: center;
+      font-family: Comic Sans MS, sans-serif;
+    }
+    img {
+      margin-top: 30px;
+      border: 5px dashed gold;
+      border-radius: 50%;
+      width: 300px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-top: 50px;
+    }
+    .quote {
+      font-size: 1.5em;
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>👑 All Hail Caleb Sheets 👑</h1>
+  <img src="hisface.png" alt="King Caleb Sheets">
+  <div class="quote">"Gravity obeys me." - Caleb Sheets</div>
+  <div class="quote">"I invented Minecraft when I was 3." - Caleb Sheets</div>
+  <p>Stay tuned for more greatness...</p>
+</body>
+</html>
